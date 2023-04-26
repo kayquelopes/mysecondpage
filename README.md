@@ -1,2 +1,2 @@
 # mysecondpage
-minha segunda page
+minha segunda GitHub page
